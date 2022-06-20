@@ -1,4 +1,4 @@
-### What happened? 
+# What happened? 
 
 Lekr.site was doing so well up until it got deleted. Here is what shows up when you try to acsess it:
 
@@ -8,6 +8,15 @@ Lekr.site was doing so well up until it got deleted. Here is what shows up when 
 Image taken on 20/6/2022, 11:34am
 
 No-one really knows what happened. Was it a hack, or Lekr giving up the site completley? Nobody really knows
+
+## The Lekrkoekj Geems website
+
+Believe it or not, the LKG website is still up. However, some visual elements are gone:
+
+![;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](https://user-images.githubusercontent.com/105518107/174585058-91685dbb-d60b-4470-92a9-8bb51a6cdbf4.PNG)
+
+This just proves that Lekr.site has been brought down
+
 
 <a href="/lekr.site">Return to archive</a>
 
